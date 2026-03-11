@@ -6,6 +6,29 @@
   },
   "entries": [
     {
+      "id": "20260311-225557-hkpc",
+      "title": "I Bronky I",
+      "commanders": [
+        "I Bronky I"
+      ],
+      "dateStart": "2026-03-11T21:55:57.000Z",
+      "dateEnd": "2026-03-11T22:55:18.000Z",
+      "dateLabel": "11/3/2026, 22:55:57 - 11/3/2026, 23:55:18",
+      "url": "https://natsu-stack.github.io/WvW_Logs/?report=20260311-225557-hkpc",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 12,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 20,
+        "avgEnemySize": 54
+      }
+    },
+    {
       "id": "20260310-221525-wcci",
       "title": "Masnuelinx",
       "commanders": [
