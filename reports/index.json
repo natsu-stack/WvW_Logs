@@ -6,6 +6,35 @@
   },
   "entries": [
     {
+      "id": "20260319-222448-5ea4",
+      "title": "Masnuelinn, Masnuelinx",
+      "commanders": [
+        "Masnuelinn",
+        "Masnuelinx"
+      ],
+      "dateStart": "2026-03-19T21:24:48.000Z",
+      "dateEnd": "2026-03-19T22:48:22.000Z",
+      "dateLabel": "19/3/2026, 22:24:48 - 19/3/2026, 23:48:22",
+      "url": "https://natsu-stack.github.io/WvW_Logs/?report=20260319-222448-5ea4",
+      "summary": {
+        "borderlandsPct": 0.7142857142857143,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 5,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 2,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 17,
+        "avgEnemySize": 31
+      }
+    },
+    {
       "id": "20260312-225330-u65h",
       "title": "Zaldunarenn",
       "commanders": [
