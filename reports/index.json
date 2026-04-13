@@ -3,6 +3,39 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260413-225547-brs0",
+      "title": "Bronky Ambulancia",
+      "commanders": [
+        "Bronky Ambulancia"
+      ],
+      "dateStart": "2026-04-13T20:55:47.000Z",
+      "dateEnd": "2026-04-13T21:49:46.000Z",
+      "dateLabel": "13/4/2026, 22:55:47 - 13/4/2026, 23:49:46",
+      "url": "https://natsu-stack.github.io/WvW_Logs/?report=20260413-225547-brs0",
+      "summary": {
+        "borderlandsPct": 0.9523809523809523,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 19,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 1,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 1,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 28,
+        "avgEnemySize": 49
+      }
+    },
+    {
       "id": "20260413-221952-58p3",
       "title": "Bronky Ambulancia",
       "commanders": [
