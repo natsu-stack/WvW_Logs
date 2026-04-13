@@ -3,6 +3,23 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260413-221952-58p3",
+      "title": "Bronky Ambulancia",
+      "commanders": [
+        "Bronky Ambulancia"
+      ],
+      "dateStart": "2026-04-13T20:19:52.000Z",
+      "dateEnd": "2026-04-13T21:11:31.000Z",
+      "dateLabel": "13/4/2026, 22:19:52 - 13/4/2026, 23:11:31",
+      "url": "https://natsu-stack.github.io/WvW_Logs/?report=20260413-221952-58p3",
+      "summary": {
+        "borderlandsPct": null,
+        "mapSlices": [],
+        "avgSquadSize": 0,
+        "avgEnemySize": 0
+      }
+    },
+    {
       "id": "20260413-221952-l3om",
       "title": "Bronky Ambulancia",
       "commanders": [
