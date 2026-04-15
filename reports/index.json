@@ -3,6 +3,40 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260414-222607-pzzt",
+      "title": "Masnuelinx, Xandar Lordkeeper",
+      "commanders": [
+        "Masnuelinx",
+        "Xandar Lordkeeper"
+      ],
+      "dateStart": "2026-04-14T20:26:07.000Z",
+      "dateEnd": "2026-04-14T21:48:52.000Z",
+      "dateLabel": "14/4/2026, 22:26:07 - 14/4/2026, 23:48:52",
+      "url": "https://natsu-stack.github.io/WvW_Logs/?report=20260414-222607-pzzt",
+      "summary": {
+        "borderlandsPct": 0.8333333333333334,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 9,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 2,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 1,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 17,
+        "avgEnemySize": 24
+      }
+    },
+    {
       "id": "20260413-225547-brs0",
       "title": "Bronky Ambulancia",
       "commanders": [
