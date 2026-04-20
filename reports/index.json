@@ -3,6 +3,40 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260420-213108-5xmh",
+      "title": "Bronky Ambulancia, Jess Darkheart",
+      "commanders": [
+        "Bronky Ambulancia",
+        "Jess Darkheart"
+      ],
+      "dateStart": "2026-04-20T19:31:08.000Z",
+      "dateEnd": "2026-04-20T21:55:05.000Z",
+      "dateLabel": "20/4/2026, 21:31:08 - 20/4/2026, 23:55:05",
+      "url": "https://natsu-stack.github.io/WvW_Logs/?report=20260420-213108-5xmh",
+      "summary": {
+        "borderlandsPct": 0.8,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 2,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 2,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 1,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 17,
+        "avgEnemySize": 33
+      }
+    },
+    {
       "id": "20260416-223826-4or1",
       "title": "Masnuelinx, Xandar Lordkeeper",
       "commanders": [
