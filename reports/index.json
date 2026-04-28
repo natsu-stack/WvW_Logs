@@ -3,6 +3,34 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260428-222236-8mpz",
+      "title": "Masnuelinn",
+      "commanders": [
+        "Masnuelinn"
+      ],
+      "dateStart": "2026-04-28T20:22:36.000Z",
+      "dateEnd": "2026-04-28T21:19:29.000Z",
+      "dateLabel": "28/4/2026, 22:22:36 - 28/4/2026, 23:19:29",
+      "url": "https://natsu-stack.github.io/WvW_Logs/?report=20260428-222236-8mpz",
+      "summary": {
+        "borderlandsPct": 0.18181818181818182,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 9,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 2,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 19,
+        "avgEnemySize": 46
+      }
+    },
+    {
       "id": "20260426-221216-1ge4",
       "title": "Bronky Ambulancia",
       "commanders": [
